@@ -25,7 +25,7 @@ SECRET_KEY = '^yd()7&cj80@80^)!sl3tjtll**y5m))ro_s1=y8^sif$3q26*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["enigmatic-cliffs-85210.herokuapp.com"]
 
 
 # Application definition
