@@ -1,10 +1,11 @@
+Django==1.11.27
+django-heroku
+gunicorn
 certifi==2019.11.28
 chardet==3.0.4
-Django==1.11.27
 djangorestframework==3.9.3
 idna==2.8
 PyPDF2==1.26.0
 pytz==2019.3
 requests==2.22.0
 urllib3==1.25.7
-django-heroku
