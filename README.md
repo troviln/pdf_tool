@@ -14,3 +14,7 @@ test application `(python 2.7)`
 2) `python manage.py migrate`
 3) `python manage.py createsuperuser`
 4) `python manage.py runserver`
+
+
+#### Try it on heroku
+[http://enigmatic-cliffs-85210.herokuapp.com/api/files/](http://enigmatic-cliffs-85210.herokuapp.com/api/files/)
