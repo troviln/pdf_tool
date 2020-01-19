@@ -1,6 +1,4 @@
 Django==1.11.27
-django-heroku
-gunicorn
 certifi==2019.11.28
 chardet==3.0.4
 djangorestframework==3.9.3
