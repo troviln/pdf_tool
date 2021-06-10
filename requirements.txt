@@ -1,4 +1,4 @@
-Django==1.11.27
+Django==2.2.24
 certifi==2019.11.28
 chardet==3.0.4
 djangorestframework==3.9.3
